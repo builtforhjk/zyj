@@ -22,9 +22,16 @@ function clockRefresh(){
 	lefth = Math.floor(leftTime/(1000*60*60)%24),
 	leftm = Math.floor(leftTime/(1000*60)%60),
 	lefts = Math.floor(leftTime/1000%60);
+         if(lefth<0){
+
+$('#bgclockshade').html("生日快乐");
+		$('#login-button').html("进入");
+return;
+
+}
 	if(lefth==0 && leftm==0 && lefts==0){
 		$('#bgclockshade').html("生日快乐");
-		$('#login-button').html("进入");
+	       $('#login-button').html("进入");
 	}
 	else{
 		if(lefth < 10) lefth = "0"+String(lefth);
