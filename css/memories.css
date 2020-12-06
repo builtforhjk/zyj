@@ -58,7 +58,7 @@
 	14% {
 		margin-bottom:0;
 		width: 80%;
-		height: 550px;
+		height: 700px;
 		border-radius: 6px;
 		background-color:rgba(255,255,255,0.5);
 		position: absolute;
@@ -69,7 +69,7 @@
 	96% {
 		margin-bottom:0;
 		width: 80%;
-		height: 550px;
+		height: 700px;
 		border-radius: 6px;
 		background-color:rgba(255,255,255,0.6);
 		position: absolute;
@@ -80,7 +80,7 @@
 	100% {
 		margin-bottom:0;
 		width: 80%;
-		height: 550px;
+		height: 700px;
 		border-radius: 6px;
 		background-color:rgba(255,255,255,0.6);
 		position: absolute;
@@ -112,32 +112,32 @@
 	14% {
 		margin-bottom:0;
 		width: 80%;
-		height: 550px;
+		height: 700px;
 		border-radius: 6px;
 		background-color:rgba(255,255,255,0.5);
 		position: absolute;
 		left: 10%;
-		bottom: 12%;
+		bottom: 30%;
 	}
 	96% {
 		margin-bottom:0;
 		width: 80%;
-		height: 550px;
+		height: 700px;
 		border-radius: 6px;
 		background-color:rgba(255,255,255,0.6);
 		position: absolute;
 		left: 10%;
-		bottom: 12%;
+		bottom: 30%;
 	}
 	100% {
 		margin-bottom:0;
 		width: 80%;
-		height: 550px;
+		height: 700px;
 		border-radius: 6px;
 		background-color:rgba(255,255,255,0.6);
 		position: absolute;
 		left: 10%;
-		bottom: 12%;
+		bottom: 30%;
 	}
 }
 
@@ -150,7 +150,7 @@
 }
 .ly-stxt01 {
 	font-family: fangsong;
-	font-size: 20px;
+	font-size: 16px;
 	color: #000;
 	position: relative;
 	left: 5%;
@@ -172,7 +172,7 @@
 }
 @-webkit-keyframes ly-stxt01_move{
 	0% {opacity:0;}
-	8% {opacity:0;}
+	8% {opacity:1;}
 	90% {opacity:1;}
 	98% {opacity:1;}
 	100% {opacity:1;}
@@ -180,7 +180,7 @@
 
 .ly-stxt02 {
 	font-family: fangsong;
-	font-size: 20px;
+	font-size: 16px;
 	color: #000;
 	position: relative;
 	left: 5%;
@@ -211,7 +211,7 @@
 
 .ly-stxt03 {
 	font-family: fangsong;
-	font-size: 20px;
+	font-size: 16px;
 	color: #000;
 	position: relative;
 	left: 5%;
@@ -242,7 +242,7 @@
 
 .ly-stxt04 {
 	font-family: fangsong;
-	font-size: 20px;
+	font-size: 16px;
 	color: #000;
 	position: relative;
 	left: 5%;
@@ -273,7 +273,7 @@
 
 .ly-stxt05 {
 	font-family: fangsong;
-	font-size: 20px;
+	font-size: 16px;
 	color: #000;
 	position: relative;
 	left: 5%;
@@ -304,7 +304,7 @@
 
 .ly-stxt06 {
 	font-family: fangsong;
-	font-size: 20px;
+	font-size: 16px;
 	color: #000;
 	position: relative;
 	left: 5%;
@@ -335,7 +335,7 @@
 
 .ly-stxt07 {
 	font-family: fangsong;
-	font-size: 20px;
+	font-size: 16px;
 	color: #000;
 	position: relative;
 	left: 5%;
@@ -366,7 +366,7 @@
 
 .ly-stxt08 {
 	font-family: fangsong;
-	font-size: 20px;
+	font-size: 16px;
 	color: #000;
 	position: relative;
 	left: 5%;
@@ -397,7 +397,7 @@
 
 .ly-stxt09 {
 	font-family: fangsong;
-	font-size: 20px;
+	font-size: 16px;
 	color: #000;
 	position: relative;
 	left: 5%;
