@@ -170,7 +170,7 @@ body {
 .happy {
 	position:absolute;
 	left:50%;
-	top:40%;
+	top:49%;
 	margin-left: -119px;
 	opacity: 1;
 	animation: happybirthdays 10s;
@@ -179,34 +179,34 @@ body {
 @keyframes happybirthdays {
 	0% {
 		position:absolute;
-		top:35%;
+		top:45%;
 		opacity: 0;
 	}
 	70% {
 		position:absolute;
-		top:35%;
+		top:45%;
 		opacity: 0;
 	}
 	100% {
 		position:absolute;
-		top:40%;
+		top:49%;
 		opacity: 1;
 	}
 }
 @-webkit-keyframes happybirthdays {
 	0% {
 		position:absolute;
-		top:35%;
+		top:45%;
 		opacity: 0;
 	}
 	70% {
 		position:absolute;
-		top:35%;
+		top:45%;
 		opacity: 0;
 	}
 	100% {
 		position:absolute;
-		top:35%;
+		top:49%;
 		opacity: 1;
 	}
 }
@@ -224,68 +224,68 @@ body {
 }
 .button-style1 {
 	position:absolute;
-	left:5%;
+	left:3%;
 	animation:btn1 15s;
 }
 .button-style2 {
 	position:absolute;
-	left:45%;
+	left:50%;
 	animation:btn2 15s;
 }
 @keyframes btn1 {
 	0% {
 		opacity:0;
-		left:30%;
+		left:25.5%;
 	}
 	70% {
 		opacity:0;
-		left:20.5%;
+		left:25.5%;
 	}
 	100% {
 		opacity:1;
-		left:5%;
+		left:3%;
 	}
 }
 @-webkit-keyframes btn1 {
 	0% {
 		opacity:0;
-		left:30%;
+		left:25.5%;
 	}
 	70% {
 		opacity:0;
-		left:20.5%;
+		left:25.5%;
 	}
 	100% {
 		opacity:1;
-		left:5%;
+		left:3%;
 	}
 }
 @keyframes btn2 {
 	0% {
 		opacity:0;
-		left:30%;
+		left:25.5%;
 	}
 	70% {
 		opacity:0;
-		left:40.5%;
+		left:25.5%;
 	}
 	100% {
 		opacity:1;
-		left:45%;
+		left:50%;
 	}
 }
 @-webkit-keyframes btn2 {
 	0% {
 		opacity:0;
-		left:30%;
+		left:25.5%;
 	}
 	70% {
 		opacity:0;
-		left:40.5%;
+		left:25.5%;
 	}
 	100% {
 		opacity:1;
-		left:45%;
+		left:50%;
 	}
 }
 .lk1,.lk2 {
